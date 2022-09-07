@@ -1,0 +1,13 @@
+{
+  "name": "fix-esm-import-paths",
+  "version": "0.1.3",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "fix-esm-import-paths": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
